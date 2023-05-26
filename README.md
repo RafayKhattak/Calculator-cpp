@@ -9,22 +9,7 @@ This is a simple calculator application implemented in C++ using the Qt framewor
 - Division: Perform division of two numbers.
 - Unary Operations: Perform unary operations like negation and percentage.
 - User Interface: The calculator has a user-friendly interface created using Qt's UI design tools.
-## Getting Started
-### Prerequisites
-To build and run the calculator application, you need to have the following software installed on your system:
-- C++ Compiler (GCC, Clang, or MSVC)
-- Qt Framework
-### Building the Application
-Follow these steps to build the calculator application:
-1. Clone the repository to your local machine:
-```
-git clone https://github.com/your-username/calculator.git
-```
-2. Open the project in your preferred Integrated Development Environment (IDE) that supports C++ development with Qt.
-3. Configure the project to use the Qt framework and set the appropriate build settings.
-
-4. Build the project to generate the executable file.
-### Running the Application
+## Running the Application
 The calculator application is already built, and the executable file is included in the project folder. Follow these steps to run the calculator application:
 1. Navigate to the project folder where you cloned the repository.
 2. Locate the executable file named calculator.exe.
